@@ -1,4 +1,4 @@
-package com.example.Atai_Ibragimov;
+package com.example.Atai_Ibragimov.model;
 
 public class Advert {
     private String title;
